@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background: black;
+    overflow: hidden;
+    
+}
+
+.Titel{
+    color: #FF0505;
+    font-size: 4rem;
+    margin-left: 800px;
+    margin-top: 300px;
+}
+
+.info{
+    color: #FF0505;
+    margin-left: 900px;
+    margin-top: 70px;
+    font-size: 20px;
+    height: 100vh;
+}
+input{
+    color:#FF0505;
+    font-size: 17px;
+    
+}
